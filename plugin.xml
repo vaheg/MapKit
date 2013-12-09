@@ -27,7 +27,7 @@
         <config-file target="AndroidManifest.xml" parent="/manifest/application">
             <meta-data
                 android:name="com.google.android.maps.v2.API_KEY"
-                android:value="$API_KEY" />
+                android:value="AIzaSyA08-PYG6jAxQLiS7OQdPx58v-adX4-Dy0" />
         </config-file>
 
         <config-file target="res/xml/config.xml" parent="/widget">
